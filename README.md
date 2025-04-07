@@ -4,7 +4,7 @@
 
 Simplicity Enhanced gives you an optimized and refined Minecraft experience that runs well even on low-end systems, while adding thoughtful quality-of-life improvements and visual polish.
 
-With **Iris Shaders**, you can easily enhance the game’s visuals with beautiful shaders, all while maintaining performance. **Resourcify** simplifies the installation and updating of resource packs in-game, making it easier than ever to manage your textures and visual enhancements without leaving Minecraft.
+With **Iris Shaders**, you can easily enhance the game’s visuals with beautiful shaders, all while maintaining performance. **Resourcify** simplifies the installation and updating of resource/shader packs in-game, making it easier than ever to manage your textures and visual enhancements without leaving Minecraft.
 
 ---
 
@@ -14,7 +14,7 @@ This pack brings top-tier performance enhancements to Minecraft:
 - **Sodium, Lithium, and FerriteCore** for major FPS boosts  
 - **Entity Culling, More Culling & Dynamic FPS** for less lag and lower system usage  
 - **ImmediatelyFast** and **FastQuit** for quicker loading and smoother exits  
-- **MixinTrace & Debugify** to improve stability and detect issues early
+- **MixinTrace** (for developers) & **Debugify** (for players) – Debugging tools to identify issues early and fix common Minecraft bugs
 
 ---
 
@@ -35,7 +35,7 @@ Small changes, big impact – these mods make your game feel more modern, respon
 Refined visuals and interface tweaks to make your game look and feel better:
 
 - **Enhanced Block Entities & BetterGrassify** – prettier block models and terrain  
-- **OptiGUI, Puzzle & Resourcify** – cleaner menus and simplified resource pack management  
+- **OptiGUI, Puzzle & Resourcify** – cleaner menus and simplified resource pack/shader management  
 - **Continuity** – seamless connected textures  
 - **Cubes Without Borders & CreativeCore** – smoother rendering for block entities
 
@@ -51,8 +51,4 @@ Customize everything with ease using:
 
 ---
 
-📦 **Includes 40+ carefully selected mods**, all balanced to maintain the vanilla experience while offering smoother gameplay and modern convenience.
-
----
-
-🎯 **Goal:** Vanilla, but better. Fast, but beautiful. Lightweight, but thoughtful.
+📦 **Includes 30+ carefully selected mods**, all balanced to maintain the vanilla experience while offering smoother gameplay and modern convenience.
