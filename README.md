@@ -51,4 +51,4 @@ Customize everything with ease using:
 
 ---
 
-📦 **Includes 30+ carefully selected mods**, all balanced to maintain the vanilla experience while offering smoother gameplay and modern convenience.
+📦 **Includes 40+ carefully selected mods**, all balanced to maintain the vanilla experience while offering smoother gameplay and modern convenience.
